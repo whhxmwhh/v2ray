@@ -1,3 +1,4 @@
+谢谢豆豆，wangyi
 # v2ray 一键部署 heroku [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/wangyi2005/v2ray-heroku)
 V2ray-Core 3.9
 
